@@ -1,0 +1,7 @@
+com\kgfsl\DetailApplication.class
+com\kgfsl\DetailServiceImp.class
+com\kgfsl\Demo.class
+com\kgfsl\DetailService.class
+com\kgfsl\SwaggerConfig.class
+com\kgfsl\DetailController.class
+com\kgfsl\DetailRepository.class
